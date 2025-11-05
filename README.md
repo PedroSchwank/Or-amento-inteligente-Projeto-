@@ -1,6 +1,6 @@
 📊 Orçamento Mensal Inteligente
 Este projeto é um aplicativo React Native para controle financeiro pessoal, permitindo gerenciar entradas, saídas, metas mensais e acompanhar alertas quando os gastos ultrapassam os limites definidos. Ele também apresenta um dashboard com gráfico de saldos mensais.
-
+Apresentaçao do codigo no YT: https://youtu.be/bjSunoczfIE
 ✅ Funcionalidades Principais
 
 
